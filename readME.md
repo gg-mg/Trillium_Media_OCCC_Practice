@@ -8,4 +8,5 @@ HTML
 
 ## Navigating different pages by connecting them using relative hyperlinks.
 
-Example: < href="contact.html">Contact Us</a>
+Example: < href="contact.html">Contact Us
+The example must be enclosed in <a></a>
